@@ -10,7 +10,7 @@ Titre du jeu : ECVC : Eco Campus Vs Capitalism
 Genre : Jeu de tir VR (shooter), action
 
 # Résumé du concept
-Recycle The Capitalists est un jeu de tir en réalité virtuelle où le joueur doit empêcher les déchets jetés par des capitalistes d’atteindre le sol. L’objectif est de maintenir une jauge de pollution sous contrôle en exploitant des mécaniques de tir immersives et des interactions VR naturelles.
+ECVC est un jeu de tir en réalité virtuelle où le joueur doit empêcher les déchets jetés par des capitalistes d’atteindre le sol. L’objectif est de maintenir une jauge de pollution sous contrôle en exploitant des mécaniques de tir immersives et des interactions VR naturelles.
 
 Offrir une expérience immersive et humoristique sensibilisant aux problématiques environnementales grâce aux spécificités immersives de la VR.
 
