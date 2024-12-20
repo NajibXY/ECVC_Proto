@@ -1,3 +1,11 @@
+# Notes de dev
+
+- Ne pas mettre de fondu après la TP sauf peut être si trop de Motion sickness
+- 
+
+
+#############################################################################################################################
+
 # ECVC_Proto
 UE Mondes Virtuels - Prototype VR
 
